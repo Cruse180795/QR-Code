@@ -1,0 +1,23 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "description": "[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-CLBr0OgpaD)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch SCSS:CSS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cruse180795/QR-Code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cruse180795/QR-Code/issues"
+  },
+  "homepage": "https://github.com/Cruse180795/QR-Code#readme",
+  "devDependencies": {
+    "sass": "^1.52.3"
+  }
+}
